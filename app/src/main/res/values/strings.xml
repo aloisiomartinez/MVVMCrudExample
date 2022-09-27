@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMCrudExemplo</string>
+    <string name="insira_item" />
+</resources>
