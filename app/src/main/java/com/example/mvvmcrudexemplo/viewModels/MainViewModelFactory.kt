@@ -2,6 +2,7 @@ package com.example.mvvmcrudexemplo.viewModels
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.example.mvvmexemplo.viewModels.MainViewModel
 
 class MainViewModelFactory(): ViewModelProvider.Factory {
     override fun <T : ViewModel> create(modelClass: Class<T>): T {
